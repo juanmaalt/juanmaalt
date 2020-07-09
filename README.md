@@ -19,7 +19,7 @@ I´m always looking for new projects, so if you´re working on an open source pr
 
 Please send me an email to juanmaalt@gmail.com with the subject "[Project] - Your project´s name".
 
-##### See ya!
+#### See ya!
 
 <!--
 **juanmaalt/juanmaalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
