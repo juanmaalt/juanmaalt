@@ -3,10 +3,10 @@
 ### About me
 I´m Juan a Software Systems Engineering student, that it´s passionate for building things.
 I would describe myself as a teamplayer, that is always seeking to learn and looking to the future, to new challenges.
-On this GitHub, you will find projects made on Android, C, Flutter (Comming soon), Java and React, among other languages.
+On this GitHub, you will find projects made on Android, C, Flutter (comming soon), Java and React, among other languages.
 
 ### Projects
-These are some of the projects that you´ll find on my GitHub:
+These are some of the projects that you´ll find on this profile:
 
 * [MyPass](https://github.com/juanmaalt/mypass) - Lightweight portable password manager.
 * [Crown Clothing](https://github.com/juanmaalt/) - Minimalist web clothes e-commerce.
