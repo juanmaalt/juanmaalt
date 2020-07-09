@@ -1,7 +1,7 @@
 # Hi there
 
 ### About me
-I´m Juan a Software Systems Engineering student, that it´s passionate for building things.  I would describe myself as a teamplayer, that is always seeking to learn and looking to the future, to new challenges.  On this GitHub, you will find projects made on Android, C, Flutter (comming soon), Java and React, among other languages.
+I´m Juan a Software Systems Engineering student, that it´s passionate for building things. <br> I would describe myself as a teamplayer, that is always seeking to learn and looking to the future, to new challenges. <br> On this GitHub, you will find projects made on Android, C, Flutter (comming soon), Java and React, among other languages.
 
 ### Projects
 These are some of the projects that you´ll find on this profile:
