@@ -7,7 +7,7 @@ I´m Juan a Software Systems Engineering student, that it´s passionate for buil
 These are some of the projects that you´ll find on this profile:
 
 * [MyPass](https://github.com/juanmaalt/mypass) - Lightweight portable password manager.
-* [Crown Clothing](https://github.com/juanmaalt/) - Minimalist web clothes e-commerce.
+* [Crown Clothing](https://github.com/juanmaalt/clothes-e-shop) - Minimalist web clothes e-commerce.
 * [Meetapp](https://github.com/juanmaalt/Meetapp) - Nice Meeting scheduler.
 * [Demo Dashboard](https://github.com/juanmaalt/DemoDashboard) - Plain Tasks manager with an only dashboard.
 * [Life Counter](https://github.com/juanmaalt/Android-lifeCounter_mtg) - Mobile life counter (2-6 players), inspired on the MTG universe.
