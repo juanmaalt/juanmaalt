@@ -1,9 +1,7 @@
 # Hi there
 
 ### About me
-I´m Juan a Software Systems Engineering student, that it´s passionate for building things.
-I would describe myself as a teamplayer, that is always seeking to learn and looking to the future, to new challenges.
-On this GitHub, you will find projects made on Android, C, Flutter (comming soon), Java and React, among other languages.
+I´m Juan a Software Systems Engineering student, that it´s passionate for building things.  I would describe myself as a teamplayer, that is always seeking to learn and looking to the future, to new challenges.  On this GitHub, you will find projects made on Android, C, Flutter (comming soon), Java and React, among other languages.
 
 ### Projects
 These are some of the projects that you´ll find on this profile:
@@ -13,8 +11,8 @@ These are some of the projects that you´ll find on this profile:
 * [Meetapp](https://github.com/juanmaalt/Meetapp) - Nice Meeting scheduler.
 * [Demo Dashboard](https://github.com/juanmaalt/DemoDashboard) - Plain Tasks manager with an only dashboard.
 * [Life Counter](https://github.com/juanmaalt/Android-lifeCounter_mtg) - Mobile life counter (2-6 players), inspired on the MTG universe.
-* WIP > [Ticketera]() - Advanced task manager, multiple roles, dashboards and types of tasks.
-* WIP > [Ad-notes]() - Awesome mobile notes app, for quick texts and simple spreadsheets.
+* __WIP >__ [Ticketera]() - Advanced task manager, multiple roles, dashboards and types of tasks.
+* __WIP >__ [Ad-notes]() - Awesome mobile notes app, for quick texts and simple spreadsheets.
 
 
 ### How to contact me
