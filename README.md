@@ -9,8 +9,8 @@ On this GitHub, you will find projects made on Android, C, Flutter (Comming soon
 These are some of the projects that you´ll find on my GitHub:
 
 * [MyPass](https://github.com/juanmaalt/mypass) - Lightweight portable password manager.
-* [Crown Clothing](https://github.com/juanmaalt/) - Minimalist frontend clothes e-commerce.
-* [Meetapp](https://github.com/juanmaalt/Meetapp) - Fullstack Meeting creator.
+* [Crown Clothing](https://github.com/juanmaalt/) - Minimalist web clothes e-commerce.
+* [Meetapp](https://github.com/juanmaalt/Meetapp) - Nice Meeting scheduler.
 * [Demo Dashboard](https://github.com/juanmaalt/DemoDashboard) - Plain Tasks manager with an only dashboard.
 * [Life Counter](https://github.com/juanmaalt/Android-lifeCounter_mtg) - Mobile life counter (2-6 players), inspired on the MTG universe.
 * WIP > [Ticketera]() - Advanced task manager, multiple roles, dashboards and types of tasks.
@@ -18,7 +18,7 @@ These are some of the projects that you´ll find on my GitHub:
 
 
 ### How to contact me
-I´m always looking for new projects, so if you´re working on an open source project and you need a hand don´t hesistate and contact me.
+I´m eagger to be part of new projects, so if you´re working on an open source project and you need a hand don´t hesistate and contact me.
 
 Please send me an email to juanmaalt@gmail.com with the subject "[Project] - Your project´s name".
 
